@@ -4,7 +4,13 @@ This is a helpful starter template that pulls in Slim and Sass running on Jekyll
 
 ### Get up and running:
 
-After cloning this will run your jekyll site locally:
+After cloning you need to bundle:
+
+```
+bundle install
+```
+
+And this will run your jekyll site locally:
 
 ```  
 jekyll serve --watch
