@@ -38,6 +38,6 @@ You can turn this into a blog! Read up on the Jekyll docs for more info on how t
 
 ### Docs:
 
-- {http://jekyllrb.com/docs/home/}(http://jekyllrb.com/docs/home/)
+- [http://jekyllrb.com/docs/home/](http://jekyllrb.com/docs/home/)
 
-- {https://github.com/Shopify/liquid/wiki/Liquid-for-Designers}(https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
+- [https://github.com/Shopify/liquid/wiki/Liquid-for-Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
