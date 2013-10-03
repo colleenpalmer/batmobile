@@ -1,5 +1,3 @@
-batmobile
-=========
 # To the Batmobile!
 ## This is a helpful starter template that pulls in Slim and Sass running on Jekyll so you can get a set up and running quickly! Holy Awesome, Batman!
 
@@ -9,7 +7,6 @@ This will run your jekyll site locally:
 
 ```  
 jekyll serve --watch
-
 ```
 
 ### Break it down now:
